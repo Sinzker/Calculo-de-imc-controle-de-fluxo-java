@@ -1,4 +1,4 @@
-# Calculo-de-imc-controle-de-fluxo-java
+# Calculo de IMC (controle de fluxo com java)
 
 <h3>:page_facing_up:Visão geral do projeto:</h3>
 <p>Programa com o intuito de calcular o IMC de uma pessoa, verificar em qual escala de IMC ela está, e indicar se está acima do peso, 
